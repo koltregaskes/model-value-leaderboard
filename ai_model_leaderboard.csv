@@ -1,0 +1,21 @@
+Model,Provider,Input Price ($/1M tokens),Output Price ($/1M tokens),GPQA (%),Chat Arena Elo,Notes,GPQA/Input$,Arena Elo/Input$
+Gemini 2.0 Flash,Google,0.1,0.4,59.0,1352,Budget option,590.0,13520.0
+GPT-4o mini,OpenAI,0.15,0.6,81.9,1395,Cost-effective multimodal,546.0000000000001,9300.0
+Gemini 2.5 Flash,Google,0.15,0.6,74.6,1419,"High-speed, cost-effective",497.3333333333333,9460.0
+DeepSeek V3,DeepSeek,0.27,1.1,71.9,1333,Most cost-effective option,266.2962962962963,4937.0370370370365
+DeepSeek R1,DeepSeek,0.55,2.19,71.5,1340,Reasoning-optimized,130.0,2436.363636363636
+Claude 3.5 Haiku,Anthropic,0.8,4.0,72.3,1321,Fast Claude model,90.37499999999999,1651.25
+Llama 4 Maverick,Meta,1.0,4.0,69.8,1250,Open weights model,69.8,1250.0
+o3-mini,OpenAI,1.1,4.4,75.0,1380,Compact reasoning model,68.18181818181817,1254.5454545454545
+Gemini 2.5 Pro,Google,1.25,10.0,84.0,1470,"Top Arena Elo rating, reasoning model",67.2,1176.0
+o3,OpenAI,2.0,8.0,83.3,1443,"Premium reasoning model, 80% price drop on June 10, 2025",41.65,721.5
+GPT-4.1,OpenAI,2.0,8.0,83.1,1402,Flagship model,41.55,701.0
+Mistral Large,Mistral,2.0,6.0,79.8,1376,Open-source alternative,39.9,688.0
+GPT-4o,OpenAI,2.5,10.0,84.1,1431,Multimodal capabilities,33.64,572.4
+Claude 3.7 Sonnet,Anthropic,3.0,15.0,84.8,1414,Highest GPQA score,28.266666666666666,471.3333333333333
+Command R+,Cohere,2.5,10.0,70.5,1285,Enterprise RAG capabilities,28.2,514.0
+Claude 3.5 Sonnet,Anthropic,3.0,15.0,83.5,1408,Previous generation,27.833333333333332,469.3333333333333
+Grok 3,xAI,3.0,15.0,75.4,1399,Real-time knowledge model,25.133333333333336,466.3333333333333
+Claude Opus 4,Anthropic,15.0,75.0,86.8,1414,Premium model,5.786666666666666,94.26666666666667
+o3-pro,OpenAI,20.0,80.0,85.5,1445,"Ultra-premium reasoning, launched June 10, 2025",4.275,72.25
+GPT-4.5 Preview,OpenAI,75.0,150.0,85.2,1425,Latest preview model,1.1360000000000001,19.0
